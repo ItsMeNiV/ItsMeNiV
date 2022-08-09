@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Yannik 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
-  <a href="https://www.linkedin.com/in/peterthehan"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
+  <a href="https://github.com/ItsMeNiV"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
+  <a href="https://www.linkedin.com/in/yannik-hodel"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
 </p>
 <br/><br/>
 <h1 align="center">About me</h1>
