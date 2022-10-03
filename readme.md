@@ -19,9 +19,10 @@
     <img height="40" src="assets/typescript.png">
     <img height="40" src="assets/cpp.png">
     <img height="40" src="assets/csharp.png">
-    <h2>Libraries/Frameworks</h2>
+    <h2>Libraries/Frameworks/APIs</h2>
     <img height="40" src="assets/spring.png">
     <img height="40" src="assets/angular.png">
+    <img height="40" src="assets/opengl.png">
     <h2>Database technologies</h2>
     <img height="40" src="assets/mssql.png">
     <img height="40" src="assets/oracle.png">
