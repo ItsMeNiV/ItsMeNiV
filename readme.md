@@ -8,7 +8,7 @@
 <h1 align="center">About me</h1>
 🏠 I live in the beautiful canton of Luzern, Switzerland 🇨🇭.<br/>
 👨‍💻 Currently working as a Java Software Engineer.<br/>
-🌱 I’m currently learning and improving my C++ and graphical programming skills.<br/>
+🌱 I’m currently learning and improving my C++ and graphics programming skills.<br/>
 ⚡ Interested in electronics and microcontrollers.<br/>
 ☕️ Too much into Coffee.<br/><br/><br/>
 
