@@ -8,7 +8,7 @@
 <h1 align="center">About me</h1>
 🏠 I live in the beautiful canton of Luzern, Switzerland 🇨🇭.<br/>
 👨‍💻 Currently working as a Java Software Engineer.<br/>
-🌱 I’m currently learning and improving my C++ and graphics programming skills.<br/>
+🌱 I’m currently learning and improving my Rust 🦀, C++ and graphics programming skills<br/>
 ⚡ Interested in electronics and microcontrollers.<br/>
 ☕️ Too much into Coffee.<br/><br/><br/>
 
@@ -19,6 +19,7 @@
     <img height="40" src="assets/typescript.png">
     <img height="40" src="assets/cpp.png">
     <img height="40" src="assets/csharp.png">
+    <img height="40" src="assets/rust.png">
     <h2>Libraries/Frameworks/APIs</h2>
     <img height="40" src="assets/spring.png">
     <img height="40" src="assets/angular.png">
